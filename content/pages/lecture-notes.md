@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 9ad29e41-4fec-4c2a-198c-5e52d3dc231e
 ---
@@ -28,7 +31,7 @@ Lecture 10 - Electron Accepters and Energetic Considerations ([PDF]({{< baseurl 
 
 Lecture 11 - Peripheral Metabolism ([PDF]({{< baseurl >}}/resources/10_14_04))
 
-Lecture 12 - Autotrophy, CO2\-Fixation, Phototrophy, and Lithotrophy ([PDF]({{< baseurl >}}/resources/10_19_04))
+Lecture 12 - Autotrophy, CO{{< sub "2" >}}\-Fixation, Phototrophy, and Lithotrophy ([PDF]({{< baseurl >}}/resources/10_19_04))
 
 Lecture 13 - Chemolithotrophic Organisms and Biogeochemical Cycles ([PDF]({{< baseurl >}}/resources/10_21_04))
 
