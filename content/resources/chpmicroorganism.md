@@ -10,6 +10,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types: []
 ocw_type: OCWImage
+parent_uid: null
 resourcetype: Image
 title: chpmicroorganism.jpg
 uid: 66ffd5b5-c6bc-0349-53b4-eb0d9c2a3272
