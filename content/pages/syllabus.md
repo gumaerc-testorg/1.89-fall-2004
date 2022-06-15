@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: This section contains information such as the overview and outline of
+  the course, textbook, and grading table for the course.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Syllabus
 uid: ac34eefb-b5b9-d7a5-aa3f-8ea85c3f0770
 ---
