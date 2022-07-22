@@ -9,10 +9,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: chpmicroorganism.jpg
 uid: 66ffd5b5-c6bc-0349-53b4-eb0d9c2a3272
 ---
 Spirochaeta americana, a bacterial microorganism that thrives in harsh climates.
-
